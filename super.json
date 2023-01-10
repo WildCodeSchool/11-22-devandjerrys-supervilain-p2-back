@@ -1,0 +1,303 @@
+[
+    {
+      "id": 1,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/370-joker.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/370-joker.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/370-joker.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/370-joker.jpg"
+      },
+      "pseudo": "Joker",
+      "password": "IloveBatou",
+      "appearance": {
+        "species": "Human",
+        "height": "196 cm",
+        "weight": "86 kg"
+      },
+      "powerAndStats": {
+        "strength": 10,
+        "intelligence": 100,
+        "populary": 100,
+        "cruelty": 100,
+        "power": [
+          "Génie criminel",
+          "connaissances en chimie",
+          "Sens de l'humour et folie démesurés"
+        ]
+      },
+      "price": 1000000,
+      "description":
+        "Le Joker affiche un goût particulier pour les farces macabres. Les armes chimiques n'ont pas de secret pour lui et il porte en permanence plusieurs sortes d’acides ainsi que son venin de Joker. Sans oublier le pistolet d'où sort un drapeau 'BANG!'",
+      "alignment": "bad"
+    },
+    {
+      "id": 2,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/423-magneto.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/423-magneto.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/423-magneto.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/423-magneto.jpg"
+      },
+      "pseudo": "Magnéto",
+      "password": "XavierMyBFF",
+      "appearance": {
+        "species": "Mutant",
+        "height": "188 cm",
+        "weight": "86 kg"
+      },
+      "powerAndStats": {
+        "strength": 80,
+        "intelligence": 88,
+        "populary": 80,
+        "cruelty": 50,
+        "power": [
+          "Contrôle du magnétisme",
+          "force surhumaine",
+          "Vol",
+          "Champ de force"
+        ]
+      },
+      "price": 650000,
+      "description":
+        "Magnéto est l'un des mutants les plus puissants. Il peut manipuler le métal et son contrôle sur cette matière ne connait pratiquement pas de limites. Il rêve de la domination de l'Homo Superior ( les mutants) sur l'Homo Sapiens ( les hommes)",
+      "alignment": "bad"
+    },
+    {
+      "id": 3,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/222-doctor-doom.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/222-doctor-doom.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/222-doctor-doom.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/222-doctor-doom.jpg"
+      },
+      "pseudo": "Docteur Fatalis",
+      "password": "mouhahaha",
+      "appearance": {
+        "species": "Human",
+        "height": "201 cm",
+        "weight": "187 kg"
+      },
+      "powerAndStats": {
+        "strength": 32,
+        "intelligence": 100,
+        "populary": 50,
+        "cruelty": 80,
+        "power": [
+          "Maîtrise des arts mystiques",
+          "Transfert d'esprit",
+          "Armure (force et durabilité surhumaines)"
+        ]
+      },
+      "price": 650000,
+      "description":
+        "Fatalis est un génie scientifique mégalomane et l'un des super-vilains les plus importants ; il a d'ailleurs tenté à plusieurs reprises de conquérir le monde et a eu à affronter les plus grandes puissances de cet univers. ",
+      "alignment": "bad"
+    },
+    {
+      "id": 4,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/405-lex-luthor.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/405-lex-luthor.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/405-lex-luthor.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/405-lex-luthor.jpg"
+      },
+      "pseudo": "Lex Luthor",
+      "password": "SuperMoi",
+      "appearance": {
+        "species": "Human",
+        "height": "188 cm",
+        "weight": "95 kg"
+      },
+      "powerAndStats": {
+        "strength": 53,
+        "intelligence": 100,
+        "populary": 50,
+        "cruelty": 90,
+        "power": [
+          "Génie machiavélique",
+          "Accès à une technologie avancée",
+          "Multimilliardaire"
+        ]
+      },
+      "price": 700000,
+      "description":
+        "Lex Luthor est peut-être un humain, mais c'est un génie ! Mais surtout c'est un milliardaire machiavélique, il a accès à de nombreuses technologies. Son génie n'a d'égal que sa folie et sa cruauté.",
+      "alignment": "bad"
+    },
+    {
+      "id": 5,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/273-galactus.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/273-galactus.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/273-galactus.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/273-galactus.jpg"
+      },
+      "pseudo": "Galactus",
+      "password": "42",
+      "appearance": {
+        "species": "Cosmic Entity",
+        "height": "876 cm",
+        "weight": "16 tons"
+      },
+      "powerAndStats": {
+        "strength": 100,
+        "intelligence": 100,
+        "populary": 90,
+        "cruelty": 95,
+        "power": ["Pouvoir cosmique"]
+      },
+      "price": 925000,
+      "description":
+        " Galactus est semblable à un dieu qui se nourrit en drainant l'énergie des planètes vivantes. Son pouvoir cosmique permettant la manipulation totale de l'énergie et de la matière pour accomplir pratiquement n'importe quel effet ",
+      "alignment": "bad"
+    },
+    {
+      "id": 6,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/204-darkseid.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/204-darkseid.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/204-darkseid.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/204-darkseid.jpg"
+      },
+      "pseudo": "Darkseid",
+      "password": "OmegaLOL",
+      "appearance": {
+        "species": "New God",
+        "height": "267 cm",
+        "weight": "817 kg"
+      },
+      "powerAndStats": {
+        "strength": 100,
+        "intelligence": 88,
+        "populary": 90,
+        "cruelty": 100,
+        "power": [
+          "Vol",
+          "Télékinésie ",
+          "Immortalité",
+          "Voyage transdimensionnel",
+          "Effet Oméga"
+        ]
+      },
+      "price": 950000,
+      "description": "",
+      "alignment": "bad"
+    },
+    {
+      "id": 7,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/538-ras-al-ghul.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/538-ras-al-ghul.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/538-ras-al-ghul.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/538-ras-al-ghul.jpg"
+      },
+      "pseudo": "Ra's al Ghul",
+      "password": "talia",
+      "appearance": {
+        "species": "Human",
+        "height": "193 cm",
+        "weight": "97 kg"
+      },
+      "powerAndStats": {
+        "strength": 100,
+        "intelligence": 88,
+        "populary": 25,
+        "cruelty": 75,
+        "power": ["Immortalité", "Badass"]
+      },
+      "price": 500000,
+      "description":
+        "Surnomé la tête de démon, il est le chef de la célèbre organisation criminelle : la ligue des Assassins, dont la mission d'épurer la planète polluée par le vice et surtout par la médiocrité",
+      "alignment": "bad"
+    },
+    {
+      "id": 8,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/414-loki.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/414-loki.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/414-loki.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/414-loki.jpg"
+      },
+      "pseudo": "Loki",
+      "password": "SiJavaisUnMarteau",
+      "appearance": {
+        "species": "Asgardian",
+        "height": "193 cm",
+        "weight": "236 kg"
+      },
+      "powerAndStats": {
+        "strength": 63,
+        "intelligence": 88,
+        "populary": 98,
+        "cruelty": 22,
+        "power": ["Télékinésie", "Télépathie ", "Magie", "Forces mystique", "Vol"]
+      },
+      "price": 550000,
+      "description":
+        "Loki est sans doute le plus puissant sorcier d’Asgard. Ses multiples capacités mystiques incluent la métamorphose, la lévitation, la projection astrale, le réarrangement moléculaire, l’émission de décharges d’énergie Eldritch,l’hypnose et la téléportation (également à travers le temps et les autres dimensions). Il possède un grand talent pour les illusions magiques, pouvant créer des images extrêmement convaincantes.",
+      "alignment": "bad"
+    },
+    {
+      "id": 9,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/517-phoenix.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/517-phoenix.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/517-phoenix.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/517-phoenix.jpg"
+      },
+      "pseudo": "Phoenix",
+      "password": "cyclopeEstNul",
+      "appearance": {
+        "species": "Mutant",
+        "height": "168 cm",
+        "weight": "52 kg"
+      },
+      "powerAndStats": {
+        "strength": 100,
+        "intelligence": 100,
+        "populary": 50,
+        "cruelty": 100,
+        "power": [
+          "Télépathie",
+          "Télékinésie",
+          "Vol",
+          "flammes cosmique",
+          "altération de la réalité",
+          "contrôle de la force vitale",
+          "manipulation du temps et de l'existence"
+        ]
+      },
+      "price": 750000,
+      "description":
+        "Elle est capable de réorganiser ou de désintégrer la matière à un niveau subatomique, de voler sans aide dans l'espace, de survivre dans n'importe quel environnement (même dans le noyau d'une étoile) et de manipuler les énergies électromagnétiques/cosmiques pour générer divers effets et perturbations atmosphériques. Elle peut par exemple créer instantanément des « trous de vers » qui peuvent la transporter n'importe où dans l'univers.",
+      "alignment": "bad"
+    },
+    {
+      "id": 10,
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/165-catwoman.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/165-catwoman.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/165-catwoman.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/165-catwoman.jpg"
+      },
+      "pseudo": "Catwoman",
+      "password": "JaimeLesChiens",
+      "appearance": {
+        "species": "Human",
+        "height": "175 cm",
+        "weight": "61 kg"
+      },
+      "powerAndStats": {
+        "strength": 11,
+        "intelligence": 69,
+        "populary": 60,
+        "cruelty": 30,
+        "power": ["experte en arts martiaux,", "discrétion"]
+      },
+      "price": 450000,
+      "description":
+        "C'est une simple humaine, mais de grand talent ! Reconnue comme une des meilleures cambrioleuses du monde. Elle capable de tenir tête à des super héros de renom comme Batman !",
+      "alignment": "bad"
+    }
+  ]
+  
