@@ -18,12 +18,13 @@ app.get('/', (req, res) => {
 app.get('/catalogue', (req, res) => {
   res.json(data)
 })
+
 app.listen(serverPort, () => console.log('http://localhost:4242'))
 app.get('/catalogue/vilain', (req, res) => {
   const thing = data.filter(superMechant => superMechant.alignment === 'bad')
   if (thing) {
     res.send(thing)
   } else {
-    console.log('404 ')
+    console.log('404')
   }
 })
