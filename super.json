@@ -5,7 +5,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/370-joker.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/370-joker.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/370-joker.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/370-joker.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/370-joker.jpg",
+      "miniature" : "https://i.ibb.co/z4X85Zh/joker.png"
     },
     "pseudo": "Joker",
     "password": "IloveBatou",
@@ -36,7 +37,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/423-magneto.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/423-magneto.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/423-magneto.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/423-magneto.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/423-magneto.jpg",
+      "miniature" : "https://i.ibb.co/3702z6V/magneto.png"
     },
     "pseudo": "Magnéto",
     "password": "XavierMyBFF",
@@ -67,7 +69,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/222-doctor-doom.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/222-doctor-doom.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/222-doctor-doom.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/222-doctor-doom.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/222-doctor-doom.jpg",
+      "miniature" : "https://i.ibb.co/qp3V0yk/fatalis.png"
     },
     "pseudo": "Docteur Fatalis",
     "password": "mouhahaha",
@@ -99,7 +102,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/405-lex-luthor.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/405-lex-luthor.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/405-lex-luthor.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/405-lex-luthor.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/405-lex-luthor.jpg",
+      "miniature" : "https://i.ibb.co/XJ7gHgB/lex.png"
     },
     "pseudo": "Lex Luthor",
     "password": "SuperMoi",
@@ -130,7 +134,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/273-galactus.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/273-galactus.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/273-galactus.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/273-galactus.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/273-galactus.jpg",
+      "miniature" : "https://i.ibb.co/CV5ynFr/galactus.png"
     },
     "pseudo": "Galactus",
     "password": "42",
@@ -157,7 +162,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/204-darkseid.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/204-darkseid.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/204-darkseid.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/204-darkseid.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/204-darkseid.jpg",
+      "miniature" : "https://i.ibb.co/bWxJCrD/darkseid.png"
     },
     "pseudo": "Darkseid",
     "password": "OmegaLOL",
@@ -189,7 +195,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/538-ras-al-ghul.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/538-ras-al-ghul.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/538-ras-al-ghul.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/538-ras-al-ghul.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/538-ras-al-ghul.jpg",
+      "miniature" : "https://i.ibb.co/BsRTp5R/ghul.png"
     },
     "pseudo": "Ra's al Ghul",
     "password": "talia",
@@ -216,7 +223,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/414-loki.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/414-loki.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/414-loki.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/414-loki.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/414-loki.jpg",
+      "miniature" : "https://i.ibb.co/QHbzc1k/loki.png"
     },
     "pseudo": "Loki",
     "password": "SiJavaisUnMarteau",
@@ -243,7 +251,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/517-phoenix.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/517-phoenix.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/517-phoenix.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/517-phoenix.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/517-phoenix.jpg",
+      "miniature" : "https://i.ibb.co/yWXpp06/phoenix.png"
     },
     "pseudo": "Phoenix",
     "password": "cyclopeEstNul",
@@ -278,7 +287,8 @@
       "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/165-catwoman.jpg",
       "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/165-catwoman.jpg",
       "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/165-catwoman.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/165-catwoman.jpg"
+      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/165-catwoman.jpg",
+      "miniature" : "https://i.ibb.co/0VDV47F/catwoman.png"
     },
     "pseudo": "Catwoman",
     "password": "JaimeLesChiens",
