@@ -308,5 +308,17 @@
     "description":
       "C'est une simple humaine, mais de grand talent ! Reconnue comme une des meilleures cambrioleuses du monde. Elle capable de tenir tête à des super héros de renom comme Batman !",
     "alignment": "bad"
-  }
+  },
+  {
+    "id":11,
+    "pseudo":"Spider-Max",
+    "password":"IloveMuscu",
+    "alignment":"good"
+  },
+  { 
+  "id":12,
+  "pseudo":"Batman",
+  "password":"RobinForEver",
+  "alignment":"good"
+}
 ]

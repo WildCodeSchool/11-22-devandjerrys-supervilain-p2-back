@@ -1,6 +1,7 @@
 const express = require('express')
 const morgan = require('morgan')
 const cors = require('cors')
+
 const serverPort = 4242
 const app = express()
 
@@ -22,6 +23,14 @@ app.get('/catalogue', (req, res) => {
 app.listen(serverPort, () => console.log('http://localhost:4242'))
 app.get('/catalogue/vilain', (req, res) => {
   const thing = data.filter(superMechant => superMechant.alignment === 'bad')
+  if (thing) {
+    res.send(thing)
+  } else {
+    console.log('404')
+  }
+})
+app.get('/catalogue/heros', (req, res) => {
+  const thing = data.filter(superHeros => superHeros.alignment === 'good')
   if (thing) {
     res.send(thing)
   } else {
